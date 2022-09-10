@@ -32,10 +32,5 @@ class Utility:
                 queue.append(cur.right)
         return dictionary
     
-    def left_bt(self, root):
-        '''
-        Left View of Binary Tree
-        Return: list
-        '''
-        pass
+
 
